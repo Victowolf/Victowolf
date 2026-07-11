@@ -24,6 +24,7 @@
 ```
 victowolf@github
 ────────────────────────────────────────────────────────────────
+
 OS             :    Windows 11 / Ubuntu 24.04
 Languages      :    Dart, Flutter, Python, C++
                     JavaScript, TypeScript
@@ -43,7 +44,7 @@ Location       :    Belagavi, Karnataka, India
 Current        :    Google Summer of Code 2026
                     Dart SDK Contributor
 
-Achievements   :    7× Hackathon Winner, SIH'26 Winner
+Achievements   :    7× Hackathon Winner, SIH'25 Winner
                     Cardano Asia Winner, Google Summer of Code'26
 
 LinkedIn       :    linkedin.com/in/yash-hosalli-70518a336/
