@@ -1,16 +1,56 @@
-## Hi there 👋
+```text
+                            ██╗   ██╗ ██╗  ██████╗ ████████╗  ██████╗  ██╗    ██╗  ██████╗  ██╗      ███████╗
+                            ██║   ██║ ██║ ██╔════╝ ╚══██╔══╝ ██╔═══██╗ ██║    ██║ ██╔═══██╗ ██║      ██╔════╝
+                            ██║   ██║ ██║ ██║         ██║    ██║   ██║ ██║ █╗ ██║ ██║   ██║ ██║      █████╗
+                            ╚██╗ ██╔╝ ██║ ██║         ██║    ██║   ██║ ██║███╗██║ ██║   ██║ ██║      ██╔══╝
+                             ╚████╔╝  ██║ ╚██████╗    ██║    ╚██████╔╝ ╚███╔███╔╝ ╚██████╔╝ ███████╗ ██║
+                              ╚═══╝   ╚═╝  ╚═════╝    ╚═╝     ╚═════╝   ╚══╝╚══╝   ╚═════╝  ╚══════╝ ╚═╝
+```
 
-<!--
-**Victowolf/Victowolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<table style="width:100%;">
+<tr>
 
-Here are some ideas to get you started:
+<td width="42%" valign="top">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://raw.githubusercontent.com/Victowolf/Victowolf/main/ascii-art%20(1).png" width="350">
+</p>
+
+</td>
+
+<td width="58%" valign="top">
+  
+```
+victowolf@github
+────────────────────────────────────────────────────────────────
+OS             :    Windows 11 / Ubuntu 24.04
+Languages      :    Dart, Flutter, Python, C++
+                    JavaScript, TypeScript
+
+AI/ML          :    Deep Learning, Hugging Face
+
+Systems        :    Dart SDK, DevTools, Networking
+                    Docker, Kubernetes, Open Source
+
+Development    :    Flutter, React, FastAPI, Node.js
+                    Web, Desktop, Android & Extensions
+
+Education      :    B.E. Computer Science
+
+Location       :    Belagavi, Karnataka, India
+
+Current        :    Google Summer of Code 2026
+                    Dart SDK Contributor
+
+Achievements   :    7× Hackathon Winner, SIH'26 Winner
+                    Cardano Asia Winner, Google Summer of Code'26
+
+LinkedIn       :    linkedin.com/in/yash-hosalli-70518a336/
+```
+
+</td>
+
+</tr>
+</table>
+</div>
