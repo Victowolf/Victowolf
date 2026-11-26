@@ -44,7 +44,7 @@ Location       :    Belagavi, Karnataka, India
 Current        :    Google Summer of Code 2026
                     Dart SDK Contributor
 
-Achievements   :    7× Hackathon Winner, SIH'25 Winner
+Achievements   :    8× Hackathon Winner, SIH'25 Winner
                     Cardano Asia Winner, Google Summer of Code'26
 
 LinkedIn       :    linkedin.com/in/yash-hosalli-70518a336/
